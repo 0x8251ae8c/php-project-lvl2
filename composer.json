@@ -14,5 +14,7 @@
             "email": "99046156+0x8251ae8c@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "docopt/docopt": "^1.0"
+    }
 }
