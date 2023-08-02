@@ -1,0 +1,18 @@
+{
+    "name": "hexlet/code",
+    "description": "Второй проект в рамках курса \"PHP-разработчик\": Вычислитель отличий.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "0x8251ae8c",
+            "email": "99046156+0x8251ae8c@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
